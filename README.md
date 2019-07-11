@@ -12,4 +12,4 @@ This app is built specifically to show off people, that you are RICH.
 
 
 
-                      ## C H E E R S !!!
+                       C H E E R S !!!
